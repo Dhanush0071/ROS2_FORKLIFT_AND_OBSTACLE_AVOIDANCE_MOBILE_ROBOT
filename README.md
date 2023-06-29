@@ -1,4 +1,4 @@
-# Ros2_forklift_obstacle_avoiding-robot_gazebo
+# Ros2_forklift_obstacle_avoidance_mobile_robot_GAZEBO
 
 
  -->  Clone this github repo 'vision' to your ros2 workspace
